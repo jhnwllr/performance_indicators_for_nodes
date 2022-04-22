@@ -4,7 +4,6 @@ This script answers this question:
 
 > B. Were new records published in 2021 by institutions endorsed by the node?
 
-
 ##  run 
 
 ```
@@ -14,7 +13,7 @@ bash run.sh
 
 ## output
 
-The output is this file `data\node_published_new_records.tsv`
+The output is this file `data\node_published_new_records.tsv`. Will give **yes** or **no** answer to the question above. 
 
 
 ## Keep in mind
